@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerShip
+  - EnemyShip
+  - Obstacle
+  - PlayerBullet
+  - EnemyBullet
+  - Wall
+  - ShieldItem
+  - FollowItem
+  - AddGunItem
+  - CoinItem
+  - Rocket
+  - Enemy
+  - Coins
+  - LaserObstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerShip
+  - EnemyShip
+  - Obstacle
+  - Boss
+  - LaserObstacleCenter
+  - Wall
+  - LaserObstacleSide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2550661847
+    locked: 0
+  - name: ITEM
+    uniqueID: 755391401
+    locked: 0
+  - name: BULLET
+    uniqueID: 1385278287
+    locked: 0
+  - name: SHIP
+    uniqueID: 1642206785
+    locked: 0
+  - name: PS
+    uniqueID: 2670196749
+    locked: 0
+  - name: UI
+    uniqueID: 2601746535
+    locked: 0

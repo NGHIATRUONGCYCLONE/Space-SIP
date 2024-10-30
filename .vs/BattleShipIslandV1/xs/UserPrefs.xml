@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{C7B482E2-2185-CCF9-BC5B-7659B8633E1F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Wallet.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="429" Column="18" />
+      <File FileName="Assets/Scripts/Shop/ShopManager.cs" />
+      <File FileName="Assets/Scripts/Shop/WatchAdsCoins.cs" />
+      <File FileName="Assets/Scripts/GlobleFunction.cs" />
+      <File FileName="Assets/Scripts/MenuController.cs" />
+      <File FileName="Assets/Scripts/Shop/PurchaserController.cs" />
+      <File FileName="Assets/Scripts/Socials/iOSNotificationRegister.cs" />
+      <File FileName="Assets/Scripts/Socials/UnityAdsController.cs" />
+      <File FileName="Assets/WaypointPro/Script/Editor/WaypointManagerEditor.cs" />
+      <File FileName="Library/PackageCache/com.unity.ads@4.4.2/Runtime/Advertisement/Platform/Editor/EditorPlatform.cs" />
+      <File FileName="Assets/Scripts/Socials/LeaderBoardController.cs" />
+      <File FileName="Assets/Scripts/Boss/BossDead.cs" />
+      <File FileName="Assets/Scripts/Api/APIManager.cs" />
+      <File FileName="Assets/Scripts/Api/APIReponse.cs" />
+      <File FileName="Assets/Scripts/Api/APIType.cs" />
+      <File FileName="Assets/Scripts/ModelApi/ModelApi.cs" />
+      <File FileName="Assets/Scripts/GameCenterController.cs" />
+      <File FileName="Assets/Scripts/CotiController.cs" />
+      <File FileName="Assets/Scripts/Shop/CotiPayment.cs" Line="100" Column="65" />
+      <File FileName="Assets/Scripts/Wallet.cs" Line="18" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BattleShipIslandV1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Api" expanded="True" />
+                <Node name="Shop" expanded="True" />
+                <Node name="Wallet.cs" selected="True" />
+              </Node>
+              <Node name="WebGLTemplates" expanded="True">
+                <Node name="nghia.truong" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="98d4c4b1-7840-4839-98fa-edd2220bd3c1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BattleShipIslandV1 PreferredExecutionTarget="Unity.Editor" />
+</Properties>
